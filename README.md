@@ -97,6 +97,5 @@ A desktop virtual piano built using Python.
 
 ## 📊 GitHub Stats
 
-```markdown
 ![Farhaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhaan-arshad&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhaan-arshad&layout=compact&theme=radical)
